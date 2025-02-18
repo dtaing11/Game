@@ -1,4 +1,4 @@
-module example.com/m
+module github.com/dtaing11/Game
 
 go 1.23.4
 
